@@ -1,0 +1,22 @@
+# Laravel default
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Laravel 8+ specific
+.env.backup
+.env.testing
+
+# IDEs and OS
+.idea
+.vscode
+*.swp
+.DS_Store
+Thumbs.db
