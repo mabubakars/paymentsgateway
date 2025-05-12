@@ -23,8 +23,8 @@ This project demonstrates how to integrate Stripe's payment gateway using Stripe
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/stripe-payment-example.git
-cd stripe-payment-example
+git clone https://github.com/mabubakars/paymentsgateway.git
+cd paymentsgateway
 ````
 
 2. **Install dependencies**
